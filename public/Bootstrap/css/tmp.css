@@ -45,5 +45,10 @@ input[type=submit]:hover {
 
 header {
     display: block;
-    text-align: center
+    text-align: center;
+    color: black;
+}
+
+body {
+    background-color: white;
 }
